@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "just-lsp",
+  "displayName": "just-lsp",
+  "version": "1.0.0",
+  "description": "Enables a language server for the just command runner",
+  "author": {
+    "name": "ghost.fail",
+    "email": "rain@ghost.fail",
+    "url": "https://ghost.fail"
+  },
+  "repository": "https://github.com/ghostbloo/just-lsp-claude"
+}

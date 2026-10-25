@@ -1,0 +1,10 @@
+{
+  "just": {
+    "command": "just-lsp",
+    "args": ["analyze"],
+    "extensionToLanguage": {
+      ".just": "just",
+      ".justfile": "just"
+    }
+  }
+}
